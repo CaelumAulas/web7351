@@ -1,0 +1,45 @@
+body {
+    width: 940px;
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /* height: auto; */
+    font-family: Helvetica;
+}
+
+
+h1 {
+    background: url("img/sobre-background.jpg")
+}
+
+p {
+    text-indent: 10px;
+}
+
+/* h1,h2,p,a,strong {
+    font-family: inherit;
+    text-align: inherit;
+    texto: inherit
+} */
+
+#centro {
+    margin: 0 auto;
+    width: 550px;
+}
+
+
+figure {
+    border: 1px solid grey;
+    padding: 15px;
+    text-align: center;
+    background: lightgrey;
+}
+
+#familia {
+    float: right;
+}
+
+h2 {
+    border-bottom: 3px solid black;
+}
